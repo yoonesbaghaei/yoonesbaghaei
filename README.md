@@ -15,7 +15,7 @@
 [![instagram](https://img.shields.io/badge/-instagram-950101?style=for-the-badge&logo=instagram&logoColor=fe8888)](https://www.instagram.com/yoones.baghaei)
 [![whatsapp](https://img.shields.io/badge/-whatsapp-0e3b03?style=for-the-badge&logo=whatsapp&logoColor=52fc28)](https://api.whatsapp.com/send?phone=+989159306374)
 [![gmail](https://img.shields.io/badge/-gmail-d7ff00?style=for-the-badge&logo=gmail&logoColor=576900)](https://mail.google.com/bagha1383@gmail.com)
-[![discord](https://img.shields.io/badge/-discord-270a4a?style=for-the-badge&logo=discord&logoColor=bd8ff1)]()
+[![discord](https://img.shields.io/badge/-discord-270a4a?style=for-the-badge&logo=discord&logoColor=bd8ff1)](https://discordapp.com/users/935509232340586556)
 
 
 
