@@ -11,7 +11,7 @@
 [![manjaro](https://img.shields.io/badge/-manjaro-6cfd6d?style=for-the-badge&logo=manjaro&logoColor=027703)](https://manjaro.org/)
 
 #### You can contact me :
-[![telegram](https://img.shields.io/badge/-telegram-0e5673?style=for-the-badge&logo=telegram&logoColor=0f587b)](https://tg/openmessage?user_id=1920433777)
+[![telegram](https://img.shields.io/badge/-telegram-0e5673?style=for-the-badge&logo=telegram&logoColor=0f587b)](https://t.me/openmessage?user_id=1920433777)
 [![instagram](https://img.shields.io/badge/-instagram-950101?style=for-the-badge&logo=instagram&logoColor=fe8888)](https://www.instagram.com/yoones.baghaei)
 [![whatsapp](https://img.shields.io/badge/-whatsapp-0e3b03?style=for-the-badge&logo=whatsapp&logoColor=52fc28)](https://api.whatsapp.com/send?phone=+989159306374)
 [![discord](https://img.shields.io/badge/-discord-270a4a?style=for-the-badge&logo=discord&logoColor=bd8ff1)](https://discordapp.com/users/935509232340586556)
