@@ -1,6 +1,6 @@
 ## ❄️ hi friends
 #### I am learning language and framework :
-[![dart](https://img.shields.io/badge/-Dart-8bbff8?style=for-the-badge&logo=Dart&logoColor=063d6c)](https://dart.dev/)
+[![sdasfdsg](https://img.shields.io/badge/-Dart-8bbff8?style=for-the-badge&logo=Dart&logoColor=063d6c)](https://dart.dev/)
 [![flutter](https://img.shields.io/badge/-flutter-0a4cb3?style=for-the-badge&logo=flutter&logoColor=80baf7)](https://flutter.dev/)
 
 #### I am a developer for the following platforms :
