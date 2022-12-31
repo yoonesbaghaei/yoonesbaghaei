@@ -1,6 +1,6 @@
 ## ❄️ hi friends
 #### I am learning language and framework :
-[![dart](https://img.shields.io/badge/-Dart-8bbff8?style=for-the-badge&logo=Dart&logoColor=063d6c)](https://dart.dev/)
+[![sacfdsf](https://img.shields.io/badge/-Dart-8bbff8?style=for-the-badge&logo=Dart&logoColor=063d6c)](https://dart.dev/)
 [![flutter](https://img.shields.io/badge/-flutter-0a4cb3?style=for-the-badge&logo=flutter&logoColor=80baf7)](https://flutter.dev/)
 
 #### I am a developer for the following platforms :
@@ -8,7 +8,7 @@
 [![ios](https://img.shields.io/badge/-ios-201f1c?style=for-the-badge&logo=apple&logoColor=cac9c6)](https://www.apple.com/ios/ios-15/)
 
 #### My favorite OS :
-[![manjaro](https://img.shields.io/badge/-manjaro-6cfd6d?style=for-the-badge&logo=manjaro&logoColor=027703)](https://manjaro.org/)
+[![Windows](https://img.shields.io/badge/-manjaro-6cfd6d?style=for-the-badge&logo=manjaro&logoColor=027703)](https://manjaro.org/)
 
 #### You can contact me :
 [![telegram](https://img.shields.io/badge/-telegram-0e5673?style=for-the-badge&logo=telegram&logoColor=0f587b)]()
