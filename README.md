@@ -8,10 +8,10 @@
 [![ios](https://img.shields.io/badge/-ios-201f1c?style=for-the-badge&logo=apple&logoColor=cac9c6)](https://www.apple.com/ios/ios-15/)
 
 #### My favorite OS :
-[![Windows](https://img.shields.io/badge/-Windows-0b2a42?style=for-the-badge&logo=windows&logoColor=4097d9)](https://manjaro.org/)
+[![Windows](https://img.shields.io/badge/-Windows-0b2a42?style=for-the-badge&logo=windows&logoColor=4097d9)](https://www.microsoft.com/de-de/windows/)
 
 #### You can contact me :
-[![telegram](https://img.shields.io/badge/-telegram-0e5673?style=for-the-badge&logo=telegram&logoColor=0f587b)](https://t.me/yoones_baghaei)
+[![telegram](https://img.shields.io/badge/-telegram-0c2e49?style=for-the-badge&logo=telegram&logoColor=2691e3)](https://t.me/yoones_baghaei)
 [![instagram](https://img.shields.io/badge/-instagram-950101?style=for-the-badge&logo=instagram&logoColor=fe8888)](https://www.instagram.com/yoones.baghaei)
 [![whatsapp](https://img.shields.io/badge/-whatsapp-0e3b03?style=for-the-badge&logo=whatsapp&logoColor=52fc28)](https://api.whatsapp.com/send?phone=+989159306374)
 [![discord](https://img.shields.io/badge/-discord-270a4a?style=for-the-badge&logo=discord&logoColor=bd8ff1)](https://discordapp.com/users/935509232340586556)
